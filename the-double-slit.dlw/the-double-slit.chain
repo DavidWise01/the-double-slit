@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1775
+slug  : the-double-slit
+seal  : ce4850ec41222389c80c1088f7dd1ba38a1e6eb77909d1de1c690fe676711d22
+prev  : 16169f11861745ac632086146282f9dafacd50fce6778d99f7c95b17e284f0d4
+link  : 19b8e965442a6952d9949ca3df0bb91fbb4e1058149928f639defb49702fde47
+head  : 7d7dd8d84b8a0c9d91ae62d609ad4f91d3c14ba37cf96a65616383c24e9859bb
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
